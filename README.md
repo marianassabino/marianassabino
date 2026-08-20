@@ -1,8 +1,4 @@
-# Hi there! I'm Mariana Sabino 👋
 
-🎓 Computer Science Student | 💻 Aspiring Software Developer  
-
----
 
 ## 🛠️ Languages & Databases
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
